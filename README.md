@@ -11,7 +11,7 @@ This guide for the process of creating a Docker container for a Node.js applicat
 
 Hello, Resya here! 23 years old girl in +8 GMT (East Borneo) timezone. I am a Tax Collector and software engineer.
 
-The 6th assignment are Simple node.js project that can be run inside docker container. Therefore, i already succeed to run correctly inside the container. Below explained the guidance.
+The 6th assignment is make simple node.js project that can be run inside docker container. Therefore, i already succeed to run correctly inside the container. Below explained the guidance.
 
 ## Prerequisites
 
