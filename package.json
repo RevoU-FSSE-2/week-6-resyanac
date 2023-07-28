@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-week-6",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
